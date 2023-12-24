@@ -58,7 +58,7 @@ public class TimeActivity extends AppCompatActivity {
                         textView2.setText(TimeNEW);
                         textView3.setText(date);
                     } else {
-                        textView2.setText("Invalid datetime format"); // Handle unexpected format
+                        textView2.setText("Invalid datetime format");
                     }
 
                 } catch (Exception e) {
