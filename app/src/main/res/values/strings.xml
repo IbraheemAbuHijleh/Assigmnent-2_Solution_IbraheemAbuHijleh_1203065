@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Assigment2Sol</string>
+    <string-array name="Item">
+        <item>Give the Time And Date In Asian Countries</item>
+        <item>The time is winter or summer in Asian countries</item>
+    </string-array>
+    <string-array name="counrty">
+        <item>Tokyo (Japan)</item>
+        <item>Chongqing (China)</item>
+        <item>Shanghai (China)</item>
+        <item>Karachi (Pakistan)</item>
+        <item>Manila (Philippines)</item>
+        <item>Calcutta (India)</item>
+        <item>Jakarta (Indonesia)</item>
+        <item>Dhaka (Bangladesh)</item>
+        <item>Tehran (Iran)</item>
+        <item>Bangkok (Thailand)</item>
+        <item>Kathmandu (Nepal)</item>
+        <item>Gaza (Gaza is a symbol of pride-Palestine)</item>
+        <item>Hebron (Hebron-Palestine)</item>
+        <item>Damascus (Syria)</item>
+        <item>Beirut (Lebanon)</item>
+        <item>Jerusalem (Jerusalem - Capital of Palestine)</item>
+        <item>Kuwait (Kuwait)</item>
+        <item>Riyadh (Kingdom of Saudi Arabia)</item>
+        <item>Amman (Jordan)</item>
+        <item>Baghdad (Iraq)</item>
+        <item>Istanbul (Türkiye)</item>
+        <item>Nicosia (Cyprus)</item>
+        <item>Tbilisi (Georgia)</item>
+    </string-array>
+    <string name="checkbox_items">
+        <item>Tokyo (Japan)</item>
+        <item>Chongqing (China)</item>
+        <item>Shanghai (China)</item>
+        <item>Karachi (Pakistan)</item>
+        <item>Manila (Philippines)</item>
+        <item>Calcutta (India)</item>
+        <item>Jakarta (Indonesia)</item>
+        <item>Dhaka (Bangladesh)</item>
+        <item>Tehran (Iran)</item>
+        <item>Bangkok (Thailand)</item>
+        <item>Kathmandu (Nepal)</item>
+        <item>Gaza (Gaza is a symbol of pride-Palestine)</item>
+        <item>Hebron (Hebron-Palestine)</item>
+        <item>Damascus (Syria)</item>
+        <item>Beirut (Lebanon)</item>
+        <item>Jerusalem (Jerusalem - Capital of Palestine)</item>
+        <item>Kuwait (Kuwait)</item>
+        <item>Riyadh (Kingdom of Saudi Arabia)</item>
+        <item>Amman (Jordan)</item>
+        <item>Baghdad (Iraq)</item>
+        <item>Istanbul (Türkiye)</item>
+        <item>Nicosia (Cyprus)</item>
+        <item>Tbilisi (Georgia)</item>
+    </string>
+</resources>
