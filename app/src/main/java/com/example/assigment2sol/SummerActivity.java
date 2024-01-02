@@ -34,8 +34,6 @@ public class SummerActivity extends AppCompatActivity {
     private TextView textView6;
 
     private TextView textView7;
-    private RadioGroup  groupradio;
-    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

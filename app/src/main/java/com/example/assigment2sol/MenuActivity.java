@@ -12,7 +12,7 @@ import android.widget.ListView;
 public class MenuActivity extends AppCompatActivity {
     private ListView list;
 
-    @SuppressLint("MissingInflatedId")
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
